@@ -14,7 +14,7 @@ public class ReadyListener implements EventListener {
 
         if (event instanceof ReadyEvent) {
 
-            System.out.println("RPS Bot is ready!");
+            System.out.println("Discord Bot is ready!");
 
         }
 
